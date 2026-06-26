@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/arpit1021-ux/DSA-series/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/arpit1021-ux/DSA-series/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Math
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1323-maximum-69-number](https://github.com/arpit1021-ux/DSA-series/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/arpit1021-ux/DSA-series/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/arpit1021-ux/DSA-series/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arpit1021-ux/DSA-series/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Sorting
 |  |
@@ -29,5 +31,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/arpit1021-ux/DSA-series/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arpit1021-ux/DSA-series/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/arpit1021-ux/DSA-series/tree/master/1578-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->
