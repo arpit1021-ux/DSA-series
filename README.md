@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/arpit1021-ux/DSA-series/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/arpit1021-ux/DSA-series/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/arpit1021-ux/DSA-series/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/arpit1021-ux/DSA-series/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/arpit1021-ux/DSA-series/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arpit1021-ux/DSA-series/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/arpit1021-ux/DSA-series/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1323-maximum-69-number](https://github.com/arpit1021-ux/DSA-series/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/arpit1021-ux/DSA-series/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/arpit1021-ux/DSA-series/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arpit1021-ux/DSA-series/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/arpit1021-ux/DSA-series/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Greedy
@@ -56,4 +58,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arpit1021-ux/DSA-series/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/arpit1021-ux/DSA-series/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/arpit1021-ux/DSA-series/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/arpit1021-ux/DSA-series/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/arpit1021-ux/DSA-series/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
