@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arpit1021-ux/DSA-series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arpit1021-ux/DSA-series/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/arpit1021-ux/DSA-series/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arpit1021-ux/DSA-series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arpit1021-ux/DSA-series/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/arpit1021-ux/DSA-series/tree/master/3536-maximum-product-of-two-digits) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/arpit1021-ux/DSA-series/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arpit1021-ux/DSA-series/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/arpit1021-ux/DSA-series/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arpit1021-ux/DSA-series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/arpit1021-ux/DSA-series/tree/master/0451-sort-characters-by-frequency) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/arpit1021-ux/DSA-series/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arpit1021-ux/DSA-series/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arpit1021-ux/DSA-series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
