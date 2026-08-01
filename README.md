@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arpit1021-ux/DSA-series/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0486-predict-the-winner](https://github.com/arpit1021-ux/DSA-series/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/arpit1021-ux/DSA-series/tree/master/0502-ipo) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/arpit1021-ux/DSA-series/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-rank-transform-of-an-array](https://github.com/arpit1021-ux/DSA-series/tree/master/1331-rank-transform-of-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/arpit1021-ux/DSA-series/tree/master/0486-predict-the-winner) |
 | [1323-maximum-69-number](https://github.com/arpit1021-ux/DSA-series/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/arpit1021-ux/DSA-series/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpit1021-ux/DSA-series/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/arpit1021-ux/DSA-series/tree/master/0486-predict-the-winner) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/arpit1021-ux/DSA-series/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arpit1021-ux/DSA-series/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## String
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/arpit1021-ux/DSA-series/tree/master/0337-house-robber-iii) |
+| [0486-predict-the-winner](https://github.com/arpit1021-ux/DSA-series/tree/master/0486-predict-the-winner) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/arpit1021-ux/DSA-series/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/arpit1021-ux/DSA-series/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Hash Table
@@ -209,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arpit1021-ux/DSA-series/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/arpit1021-ux/DSA-series/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
