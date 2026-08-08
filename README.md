@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arpit1021-ux/DSA-series/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0164-maximum-gap](https://github.com/arpit1021-ux/DSA-series/tree/master/0164-maximum-gap) |
 | [0486-predict-the-winner](https://github.com/arpit1021-ux/DSA-series/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/arpit1021-ux/DSA-series/tree/master/0502-ipo) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/arpit1021-ux/DSA-series/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/arpit1021-ux/DSA-series/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/arpit1021-ux/DSA-series/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/arpit1021-ux/DSA-series/tree/master/0502-ipo) |
 | [1331-rank-transform-of-an-array](https://github.com/arpit1021-ux/DSA-series/tree/master/1331-rank-transform-of-an-array) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/arpit1021-ux/DSA-series/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/arpit1021-ux/DSA-series/tree/master/0451-sort-characters-by-frequency) |
 ## Design
 |  |
@@ -225,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/arpit1021-ux/DSA-series/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/arpit1021-ux/DSA-series/tree/master/0177-nth-highest-salary) |
 | [0197-rising-temperature](https://github.com/arpit1021-ux/DSA-series/tree/master/0197-rising-temperature) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/arpit1021-ux/DSA-series/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/arpit1021-ux/DSA-series/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
