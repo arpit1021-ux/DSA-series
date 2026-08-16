@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/arpit1021-ux/DSA-series/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/arpit1021-ux/DSA-series/tree/master/0178-rank-scores) |
 | [0197-rising-temperature](https://github.com/arpit1021-ux/DSA-series/tree/master/0197-rising-temperature) |
+| [1193-monthly-transactions-i](https://github.com/arpit1021-ux/DSA-series/tree/master/1193-monthly-transactions-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/arpit1021-ux/DSA-series/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Radix Sort
 |  |
