@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arpit1021-ux/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3904-smallest-stable-index-ii) |
+| [4020-elevator-requests-i](https://github.com/arpit1021-ux/DSA-series/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arpit1021-ux/DSA-series/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arpit1021-ux/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4020-elevator-requests-i](https://github.com/arpit1021-ux/DSA-series/tree/master/4020-elevator-requests-i) |
 ## Number Theory
 |  |
 | ------- |
