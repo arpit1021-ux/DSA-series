@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/arpit1021-ux/DSA-series/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/arpit1021-ux/DSA-series/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/arpit1021-ux/DSA-series/tree/master/0617-merge-two-binary-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arpit1021-ux/DSA-series/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/arpit1021-ux/DSA-series/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/arpit1021-ux/DSA-series/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/arpit1021-ux/DSA-series/tree/master/0617-merge-two-binary-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arpit1021-ux/DSA-series/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arpit1021-ux/DSA-series/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/arpit1021-ux/DSA-series/tree/master/0337-house-robber-iii) |
 | [0617-merge-two-binary-trees](https://github.com/arpit1021-ux/DSA-series/tree/master/0617-merge-two-binary-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arpit1021-ux/DSA-series/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
