@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/arpit1021-ux/DSA-series/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arpit1021-ux/DSA-series/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arpit1021-ux/DSA-series/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/arpit1021-ux/DSA-series/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/arpit1021-ux/DSA-series/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arpit1021-ux/DSA-series/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arpit1021-ux/DSA-series/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arpit1021-ux/DSA-series/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/arpit1021-ux/DSA-series/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arpit1021-ux/DSA-series/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpit1021-ux/DSA-series/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arpit1021-ux/DSA-series/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/arpit1021-ux/DSA-series/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/arpit1021-ux/DSA-series/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Divide and Conquer
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/arpit1021-ux/DSA-series/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/arpit1021-ux/DSA-series/tree/master/3483-unique-3-digit-even-numbers) |
 ## Database
 |  |
 | ------- |
