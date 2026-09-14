@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/arpit1021-ux/DSA-series/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/arpit1021-ux/DSA-series/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/arpit1021-ux/DSA-series/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/arpit1021-ux/DSA-series/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/arpit1021-ux/DSA-series/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/arpit1021-ux/DSA-series/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -325,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arpit1021-ux/DSA-series/tree/master/0852-peak-index-in-a-mountain-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/arpit1021-ux/DSA-series/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
