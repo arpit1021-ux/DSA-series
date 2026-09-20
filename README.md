@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arpit1021-ux/DSA-series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arpit1021-ux/DSA-series/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/arpit1021-ux/DSA-series/tree/master/3498-reverse-degree-of-a-string) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/arpit1021-ux/DSA-series/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Dynamic Programming
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arpit1021-ux/DSA-series/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/arpit1021-ux/DSA-series/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arpit1021-ux/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4020-elevator-requests-i](https://github.com/arpit1021-ux/DSA-series/tree/master/4020-elevator-requests-i) |
 ## Number Theory
