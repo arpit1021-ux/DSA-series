@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/arpit1021-ux/DSA-series/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arpit1021-ux/DSA-series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/arpit1021-ux/DSA-series/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arpit1021-ux/DSA-series/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arpit1021-ux/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/arpit1021-ux/DSA-series/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/arpit1021-ux/DSA-series/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arpit1021-ux/DSA-series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arpit1021-ux/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/arpit1021-ux/DSA-series/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
