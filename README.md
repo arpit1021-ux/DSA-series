@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/arpit1021-ux/DSA-series/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/arpit1021-ux/DSA-series/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/arpit1021-ux/DSA-series/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpit1021-ux/DSA-series/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpit1021-ux/DSA-series/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arpit1021-ux/DSA-series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/arpit1021-ux/DSA-series/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/arpit1021-ux/DSA-series/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/arpit1021-ux/DSA-series/tree/master/1331-rank-transform-of-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/arpit1021-ux/DSA-series/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpit1021-ux/DSA-series/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arpit1021-ux/DSA-series/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arpit1021-ux/DSA-series/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/arpit1021-ux/DSA-series/tree/master/0450-delete-node-in-a-bst) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arpit1021-ux/DSA-series/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpit1021-ux/DSA-series/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arpit1021-ux/DSA-series/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpit1021-ux/DSA-series/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
 |  |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpit1021-ux/DSA-series/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpit1021-ux/DSA-series/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arpit1021-ux/DSA-series/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
