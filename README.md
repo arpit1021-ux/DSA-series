@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/arpit1021-ux/DSA-series/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/arpit1021-ux/DSA-series/tree/master/0502-ipo) |
+| [1096-brace-expansion-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/arpit1021-ux/DSA-series/tree/master/1331-rank-transform-of-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/arpit1021-ux/DSA-series/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/arpit1021-ux/DSA-series/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arpit1021-ux/DSA-series/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/arpit1021-ux/DSA-series/tree/master/0316-remove-duplicate-letters) |
 | [0451-sort-characters-by-frequency](https://github.com/arpit1021-ux/DSA-series/tree/master/0451-sort-characters-by-frequency) |
+| [1096-brace-expansion-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/1096-brace-expansion-ii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/arpit1021-ux/DSA-series/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arpit1021-ux/DSA-series/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arpit1021-ux/DSA-series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arpit1021-ux/DSA-series/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/arpit1021-ux/DSA-series/tree/master/0451-sort-characters-by-frequency) |
+| [1096-brace-expansion-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/arpit1021-ux/DSA-series/tree/master/1331-rank-transform-of-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/arpit1021-ux/DSA-series/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpit1021-ux/DSA-series/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arpit1021-ux/DSA-series/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0089-gray-code](https://github.com/arpit1021-ux/DSA-series/tree/master/0089-gray-code) |
+| [1096-brace-expansion-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpit1021-ux/DSA-series/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -235,11 +239,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/arpit1021-ux/DSA-series/tree/master/0100-same-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/arpit1021-ux/DSA-series/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/arpit1021-ux/DSA-series/tree/master/0617-merge-two-binary-trees) |
+| [1096-brace-expansion-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/arpit1021-ux/DSA-series/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/arpit1021-ux/DSA-series/tree/master/0316-remove-duplicate-letters) |
+| [1096-brace-expansion-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/1096-brace-expansion-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
