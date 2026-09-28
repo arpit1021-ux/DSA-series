@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arpit1021-ux/DSA-series/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/arpit1021-ux/DSA-series/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arpit1021-ux/DSA-series/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arpit1021-ux/DSA-series/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arpit1021-ux/DSA-series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/arpit1021-ux/DSA-series/tree/master/0316-remove-duplicate-letters) |
 | [1096-brace-expansion-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arpit1021-ux/DSA-series/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arpit1021-ux/DSA-series/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -367,4 +369,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arpit1021-ux/DSA-series/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arpit1021-ux/DSA-series/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
