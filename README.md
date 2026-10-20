@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/arpit1021-ux/DSA-series/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arpit1021-ux/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/arpit1021-ux/DSA-series/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3904-smallest-stable-index-ii) |
 | [4020-elevator-requests-i](https://github.com/arpit1021-ux/DSA-series/tree/master/4020-elevator-requests-i) |
 ## Math
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/arpit1021-ux/DSA-series/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arpit1021-ux/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/arpit1021-ux/DSA-series/tree/master/3886-sum-of-sortable-integers) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/arpit1021-ux/DSA-series/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Greedy
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/arpit1021-ux/DSA-series/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/arpit1021-ux/DSA-series/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arpit1021-ux/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/arpit1021-ux/DSA-series/tree/master/3886-sum-of-sortable-integers) |
 ## Game Theory
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/arpit1021-ux/DSA-series/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arpit1021-ux/DSA-series/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/arpit1021-ux/DSA-series/tree/master/3886-sum-of-sortable-integers) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/arpit1021-ux/DSA-series/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Divide and Conquer
 |  |
