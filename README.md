@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/arpit1021-ux/DSA-series/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/arpit1021-ux/DSA-series/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/arpit1021-ux/DSA-series/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/arpit1021-ux/DSA-series/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/arpit1021-ux/DSA-series/tree/master/0502-ipo) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arpit1021-ux/DSA-series/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/arpit1021-ux/DSA-series/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/arpit1021-ux/DSA-series/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/arpit1021-ux/DSA-series/tree/master/0089-gray-code) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/arpit1021-ux/DSA-series/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/arpit1021-ux/DSA-series/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/arpit1021-ux/DSA-series/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/1140-stone-game-ii) |
