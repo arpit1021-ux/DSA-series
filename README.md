@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/arpit1021-ux/DSA-series/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-rank-transform-of-an-array](https://github.com/arpit1021-ux/DSA-series/tree/master/1331-rank-transform-of-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/arpit1021-ux/DSA-series/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arpit1021-ux/DSA-series/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/arpit1021-ux/DSA-series/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/arpit1021-ux/DSA-series/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpit1021-ux/DSA-series/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/arpit1021-ux/DSA-series/tree/master/1323-maximum-69-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/arpit1021-ux/DSA-series/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arpit1021-ux/DSA-series/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/arpit1021-ux/DSA-series/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arpit1021-ux/DSA-series/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpit1021-ux/DSA-series/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/arpit1021-ux/DSA-series/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/1140-stone-game-ii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/arpit1021-ux/DSA-series/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arpit1021-ux/DSA-series/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/arpit1021-ux/DSA-series/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arpit1021-ux/DSA-series/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/arpit1021-ux/DSA-series/tree/master/3524-find-x-value-of-array-i) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/arpit1021-ux/DSA-series/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arpit1021-ux/DSA-series/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arpit1021-ux/DSA-series/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpit1021-ux/DSA-series/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/arpit1021-ux/DSA-series/tree/master/3364-minimum-positive-sum-subarray) |
